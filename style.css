@@ -1,0 +1,60 @@
+body { 
+    background-image: url("background2.jpg");
+    background-size: 100%;
+}
+#todo{
+    width: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+h1.tit{
+    text-align: center;
+    color: rgb(85, 97, 93);
+    font-size: 4em;
+    padding-top: 0.5em;
+}
+div.content{
+    border-radius: 10px;
+    width: 70%;
+    background-color: rgb(240, 195, 189);
+    padding-bottom: 2em;
+}
+p.color{
+    background-color: rgb(235, 165, 155);
+    padding-top: 1em;
+}
+div.contenido{
+    background-color: white;
+    justify-content: center;
+    padding-bottom: 1em;
+}
+div.img{
+text-align: center;
+padding-top: 2em;
+}
+img.img{
+    width: 30em;
+    height: 25em;
+    border-radius: 10px;
+}
+.text h1{
+    size: 5px;
+}
+div.text{
+    text-align: center;
+}
+p{
+    font-family: 'Karla', sans-serif;
+}
+.text2 img{
+    width: 15em;
+    height: 23em;
+    border-radius: 10px;
+}
+div.text2{
+    padding-left: 4em;
+    padding-top: 2em;
+
+}
+
